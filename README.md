@@ -7,5 +7,5 @@ https://react-job-listing-website.vercel.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Your app is ready to be deployed!
+This app is ready to be deployed!
 
